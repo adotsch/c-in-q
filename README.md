@@ -1,5 +1,5 @@
 # C in Q
-Embed/compile your C/C++ code in your Q script.
+c.k allows you to embed/compile your C/C++ code in your Q script.
  * Put "c)file:..." before your source code to specify file name. You can have multiple of these.
  * Use the "c)" prefix in your C/C++ source code.
  * Add "c)$..." for compile command.
